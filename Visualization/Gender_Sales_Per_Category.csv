@@ -1,0 +1,11 @@
+﻿Gender,Category,Number_Of_Orders,Total_Quantity,Sales,Average_Expense
+Female,Books,7,21,315,45
+Female,Clothing,15,52,1300,86.67
+Female,Electronics,43,132,57950,1347.67
+Female,Footwear,13,40,2400,184.62
+Female,Home Appliances,12,35,35400,2950
+Male,Books,11,36,540,49.09
+Male,Clothing,12,31,1120,93.33
+Male,Electronics,42,124,45350,1079.76
+Male,Footwear,6,14,840,140
+Male,Home Appliances,12,35,33600,2800

@@ -1,0 +1,11 @@
+﻿Product,Category,QuantityPerProduct,Total_Sales_Per_Product,Num_Orders
+Book,Books,57,855,18
+T-Shirt,Clothing,45,900,16
+Jeans,Clothing,38,1520,11
+Running Shoes,Footwear,54,3240,19
+Headphones,Electronics,41,4100,15
+Smartwatch,Electronics,76,11400,25
+Washing Machine,Home Appliances,25,15000,8
+Smartphone,Electronics,78,39000,26
+Laptop,Electronics,61,48800,19
+Refrigerator,Home Appliances,45,54000,16

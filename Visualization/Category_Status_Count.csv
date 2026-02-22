@@ -1,0 +1,16 @@
+﻿Category,Status,Status_Count,TotalSales,TotalQuantity,Status_Rate
+Books,Cancelled,7,180,12,0.28
+Clothing,Cancelled,13,1120,32,0.325
+Electronics,Cancelled,33,26650,92,0.279661017
+Footwear,Cancelled,8,1080,18,0.296296296
+Home Appliances,Cancelled,16,36000,40,0.4
+Books,Pending,12,645,43,0.48
+Clothing,Pending,12,1020,34,0.3
+Electronics,Pending,41,47400,120,0.347457627
+Footwear,Pending,9,1620,27,0.333333333
+Home Appliances,Pending,11,39600,40,0.275
+Books,Completed,6,210,14,0.24
+Clothing,Completed,15,1400,49,0.375
+Electronics,Completed,44,55900,136,0.372881356
+Footwear,Completed,10,1620,27,0.37037037
+Home Appliances,Completed,13,29400,30,0.325
